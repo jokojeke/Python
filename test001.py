@@ -1,0 +1,5 @@
+FirstNum =input('Enter first number\n')
+SecondNum =input('Enter second number\n')
+print(FirstNum,'=',SecondNum,':',FirstNum==SecondNum)
+print(FirstNum,'<',SecondNum,':',FirstNum<SecondNum)
+print(FirstNum,'>',SecondNum,':',FirstNum>SecondNum)
